@@ -1,0 +1,8 @@
+The concept of stability of a computational algorithm is analogous to conditioning of a
+mathematical problem. Both concepts have to do with sensitivity to perturbations, but
+the term stability is usually used for algorithms and conditioning for problems (although
+stability is sometimes used for problems as well, especially in differential equations). An
+algorithm is stable if the result it produces is relatively insensitive to perturbations resulting
+from approximations made during the computation. From the viewpoint of backward error
+analysis, an algorithm is stable if the result it produces is the exact solution to a nearby
+problem.
